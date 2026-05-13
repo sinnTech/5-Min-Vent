@@ -41,7 +41,7 @@ No history. No "your data helps us improve." Just catharsis.
 
 ## 🛠️ Built With
 
-- **[MeDo](https://medo.com)** — full-stack apps from natural language
+- **[MeDo](https://medo.dev/)** — full-stack apps from natural language
 - No backend code written by hand
 - No database schema designed
 - One-click deployment
@@ -76,7 +76,7 @@ This app doesn't want to *fix* you. It wants to *hold space* for you — then fo
 ## 🙏 Credits
 
 Built by [SinTech]  
-Powered by [MeDo](https://medo.com)  
+Powered by [MeDo](https://medo.dev/)  
 Inspired by every thought that needed to leave but had nowhere to go.
 
 ---
