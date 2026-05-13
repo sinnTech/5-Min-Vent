@@ -75,7 +75,7 @@ This app doesn't want to *fix* you. It wants to *hold space* for you — then fo
 
 ## 🙏 Credits
 
-Built by [SinTech]  
+Built by [SinnTech]  
 Powered by [MeDo](https://medo.dev/)  
 Inspired by every thought that needed to leave but had nowhere to go.
 
