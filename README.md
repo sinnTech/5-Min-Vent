@@ -58,8 +58,6 @@ No history. No "your data helps us improve." Just catharsis.
 
 ## 🧠 The Philosophy
 
-$$\text{Catharsis} = \frac{\text{Expression}}{\text{Consequence}}$$
-
 When consequences approach zero, honesty approaches infinity.
 
 This app doesn't want to *fix* you. It wants to *hold space* for you — then forget everything you said.
